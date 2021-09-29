@@ -1,0 +1,7 @@
+{
+    "name": "mage-os/namespace",
+    "description": "This package serves to register the packagist.org mage-os vendor name",
+    "authors": [ ],
+    "require": {},
+    "license": "BSD-3-Clause"
+}
